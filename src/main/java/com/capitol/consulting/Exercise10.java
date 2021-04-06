@@ -1,4 +1,4 @@
-package com.hackerrank.challenges;
+package com.capitol.consulting;
 
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
